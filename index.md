@@ -18,4 +18,4 @@ My GitHub page is [http://github.com/ericklrobles](http://github.com/ericklroble
 
 * [Lab 10](https://github.com/cpsc-fall-2023/cpsc-120-lab-10-erick-and-eileen)
   
-   Lab 10, part 2, was also one of my favorite labs because we used the given 2D vector of counties and populations. We organized it through our defined functions, loops, and conditions. This goes to answer the given specific county through the user's input, which returns the population grabbed within the 2D vector back to the user.
+   Lab 10, part 2, was also one of my favorite labs because we used the given 2D vector of counties and populations. I learned to organize it through our defined functions, loops, and conditions. This goes to answer the given specific county through the user's input, which returns the population grabbed within the 2D vector back to the user.
